@@ -1,0 +1,80 @@
+body
+{
+  font-family: sans-serif;
+  font-weight:normal;
+}
+
+h1
+{
+  color: blue;
+}
+.address {
+  font-style: italic;
+}
+.td {
+  font-style: italic;
+}
+#contact
+{
+  font-weight: bold;
+  font-style: italic;
+}
+
+#picture
+{
+  width: 45%;
+}
+h2
+{
+  color: purple;
+  margin-top: 4%;
+  text-align: center;
+  background-color:grey;
+  font-variant: small-caps;
+  letter-spacing: 4px;
+}
+
+#now
+{
+  color: green;
+  font-size: x-small;
+}
+
+table#t02{
+  width : 100% ;
+  border-spacing: 2px ;
+  }
+table#t02 tr:nth-child(2) {
+  color: green;
+  font-size: x-small;
+  text-align: center;
+}
+.al{
+  text-align: right;
+}
+table#t01{
+  width:100%;
+}
+
+table#t01 th{
+    border: 1px solid black;
+}
+table#t01{
+    border: 1px solid black;
+}
+table#t01 td{
+  border: 1px solid black;
+}
+table#t01{
+  width:100%;
+}
+
+table#t01 th{
+    border: 1px solid black;
+}
+table#t01{
+    border: 1px solid black;
+}
+table#t01 td{
+  border: 1px solid black;
+}
